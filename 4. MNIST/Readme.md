@@ -1,9 +1,9 @@
 # MNIST Digit Classification
 
 This project focuses on solving the MNIST digit classification problem using three distinct approaches:  
-1. **[LeNet Architecture](#1.-lenet-architecture)**  
-2. **[Custom Architecture (Model 1)](#2.-custom-architecture-(model-1))**  
-3. **[Custom Architecture (Model 2)](#3.-custom-architecture-(model-2))**  
+1. **[LeNet Architecture](#1-lenet-architecture)**  
+2. **[Custom Architecture (Model 1)](#2-custom-architecture-model-1)**  
+3. **[Custom Architecture (Model 2)](#3-custom-architecture-model-2)**  
 
 ## Dataset
 
@@ -23,7 +23,7 @@ LeNet is a classic Convolutional Neural Network (CNN) architecture designed for 
 - **Optimizer**: Stochastic Gradient Descent  
 - **Loss Function**: Sparse Categorical Crossentropy  
 
-### 2. Custom Architecture (Model 1)
+### 2. Custom Architecture Model 1
 This is a tailored CNN designed to explore alternative architecture designs.  
 - **Features**:
   - First and Second Convolutional Layer: 16 filters, kernel size (3, 3), activation function ReLU.
@@ -35,7 +35,7 @@ This is a tailored CNN designed to explore alternative architecture designs.
 - **Optimizer**: Stochastic Gradient Descent
 - **Loss Function**: Sparse Categorical Crossentropy  
 
-### 3. Custom Architecture (Model 2)
+### 3. Custom Architecture Model 2
 A further optimized custom architecture incorporating insights from experimentation.  
 - **Features**:  
   - Input Layer: Accepts images of shape (28, 28, 1) for grayscale MNIST digits. 
