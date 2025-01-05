@@ -1,9 +1,9 @@
 # MNIST Digit Classification
 
 This project focuses on solving the MNIST digit classification problem using three distinct approaches:  
-1. **[LeNet Architecture](#1._lenet_architecture)**  
-2. **[Custom Architecture (Model 1)](#2._custom_architecture_(model_1))**  
-3. **[Custom Architecture (Model 2)](#3._custom_architecture_(model_2))**  
+1. **[LeNet Architecture](#1.-lenet-architecture)**  
+2. **[Custom Architecture (Model 1)](#2.-custom-architecture-(model-1))**  
+3. **[Custom Architecture (Model 2)](#3.-custom-architecture-(model-2))**  
 
 ## Dataset
 
